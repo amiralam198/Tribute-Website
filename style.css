@@ -41,8 +41,9 @@
 }
 .about_section h2{
     font-size: 70 px;
-    font-weight: 400;
+    font-weight: 40;
     margin-bottom: 20px;
+    font-weight: bold;
 }
 .about_section p{
     font-size: 20px;
